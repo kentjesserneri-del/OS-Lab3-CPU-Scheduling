@@ -2,10 +2,8 @@
 ## Multilevel Queue and Real-Time CPU Scheduling
 
 ### Student Information
-- **Name:** [Your Name]
-- **Course and Section:** [Your Course & Section]
-- **Instructor:** [Instructor Name]
-- **Date Submitted:** [Date]
+- **Name:** Kent Jesser Neri
+
 
 ### I. Introduction
 This laboratory activity explores Multilevel Queue (MLQ) scheduling and real-time CPU scheduling algorithms — Rate Monotonic Scheduling (RMS) and Earliest Deadline First (EDF). Simulations are implemented in Python, with Gantt charts generated to visualize execution, and performance metrics analyzed.
